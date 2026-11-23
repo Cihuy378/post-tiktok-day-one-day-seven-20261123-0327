@@ -1,0 +1,7 @@
+*.mp4
+TIKTOK-CAPTION.txt
+requirements.json
+competition.json
+out/
+transcripts*
+__pycache__/
